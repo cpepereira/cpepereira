@@ -1,19 +1,18 @@
 Hi 👋 My name is Peterson
 ==========================
 
-Independent Researcher in Technology
-------------------------------------
+### Independent Researcher in Artificial Intelligence and Technology
+--------------------------------------------------------------
 
-I'm a self-taught web developer and Electronics Technician, focusing on personal projects in web development. Currently, I'm diving deep into Artificial Intelligence research.
+I'm an Electronics Technician turned self-taught web developer, with a strong focus on Artificial Intelligence (AI). I'm deeply engaged in cutting-edge AI research, exploring its potential applications and implications.
 
-I am also an independent researcher, exploring emerging technologies and their applications.
+* 🌍  Based in Belo Horizonte, MG, Brazil
+* ✉️  Reach out to me at [cpepereira@outlook.com](mailto:cpepereira@outlook.com)
+* 🚀  Actively involved as an Independent Researcher in AI, pushing the boundaries of the field
+* 🧠  Continuously learning and conducting experiments in AI and related technologies
+* 🤝  Open to collaborations on transformative projects that can make a significant impact on society
+* ⚡  Passionate about technology and committed to advancing the field of AI through rigorous research
 
-* 🌍  I'm based in Belo Horizonte, MG, Brazil
-* ✉️  You can contact me at [cpepereira@outlook.com](mailto:cpepereira@outlook.com)
-* 🚀  I'm currently working as an Independent Researcher in AI and Technology
-* 🧠  I'm learning and experimenting with Artificial Intelligence and web technologies
-* 🤝  I'm open to collaborating on projects that have a high impact in people's lives
-* ⚡  I love technology and am passionate about research
 
 
 
