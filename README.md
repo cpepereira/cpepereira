@@ -1,9 +1,6 @@
 Hi 👋 My name is Peterson
 ==========================
 
-Hi 👋 My name is Peterson
-==========================
-
 ### Independent Researcher in Artificial Intelligence and Technology
 --------------------------------------------------------------
 
