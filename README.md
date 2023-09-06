@@ -1,6 +1,9 @@
 Hi 👋 My name is Peterson
 ==========================
 
+Hi 👋 My name is Peterson
+==========================
+
 ### Independent Researcher in Artificial Intelligence and Technology
 --------------------------------------------------------------
 
@@ -21,7 +24,9 @@ I'm an Electronics Technician turned self-taught web developer, with a strong fo
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino.svg" width="36" height="36" alt="Arduino Programming" /></a>
 </p>
+
 
 
 ### Socials
